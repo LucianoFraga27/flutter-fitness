@@ -1,17 +1,5 @@
-# fitness
+# Fitness Flutter App
 
-A new Flutter project.
+## Overview
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-"# flutter-fitness" 
+This project is based on a video tutorial for creating a fitness app using the Flutter framework. The tutorial used as a reference can be found [here](https://www.youtube.com/watch?v=D4nhaszNW4o&t=519s).
