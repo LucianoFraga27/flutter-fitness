@@ -10,14 +10,14 @@ class CategoryModel {
   static List<CategoryModel> getCategory() {
     List<CategoryModel> categories = [];
 
-    categories.add(CategoryModel(
-        "Salad", "assets/icons/plate.svg", Color.fromARGB(255, 213, 240, 255)));
+    categories.add(CategoryModel("Salad", "assets/icons/plate.svg",
+        const Color.fromARGB(255, 213, 240, 255)));
 
     categories.add(CategoryModel("Cake", "assets/icons/pancakes.svg",
         const Color.fromARGB(255, 249, 213, 255)));
 
-    categories.add(CategoryModel(
-        "Pie", "assets/icons/pie.svg", Color.fromARGB(255, 213, 240, 255)));
+    categories.add(CategoryModel("Pie", "assets/icons/pie.svg",
+        const Color.fromARGB(255, 213, 240, 255)));
 
     categories.add(CategoryModel("Smoothies", "assets/icons/orange-snacks.svg",
         const Color.fromARGB(255, 249, 213, 255)));
